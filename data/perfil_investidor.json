@@ -1,0 +1,50 @@
+{
+  "perfis": [
+    {
+      "nome": "Lucas Souza",
+      "idade": 16,
+      "profissao": "Jovem Aprendiz (Administrativo)",
+      "renda_mensal": 702.00,
+      "perfil_investidor": "conservador",
+      "objetivo_principal": "Criar o hábito de poupar para investir na formação",
+      "patrimonio_total": 40.00,
+      "reserva_emergencia_atual": 0.00,
+      "aceita_risco": false,
+      "metas": [
+        {
+          "meta": "Poupar R$ 20 por mês",
+          "valor_necessario": 240.00,
+          "prazo": "2027-07"
+        },
+        {
+          "meta": "Comprar um laptop para estudar",
+          "valor_necessario": 2500.00,
+          "prazo": "2029-07"
+        }
+      ]
+    },
+    {
+      "nome": "Mariana Costa",
+      "idade": 18,
+      "profissao": "Jovem Aprendiz (Logística)",
+      "renda_mensal": 750.00,
+      "perfil_investidor": "conservador",
+      "objetivo_principal": "Poupar mensalmente para o desenvolvimento profissional",
+      "patrimonio_total": 60.00,
+      "reserva_emergencia_atual": 20.00,
+      "aceita_risco": false,
+      "metas": [
+        {
+          "meta": "Poupar R$ 20 por mês",
+          "valor_necessario": 240.00,
+          "prazo": "2027-07"
+        },
+        {
+          "meta": "Custear Curso Técnico de Logística",
+          "valor_necessario": 1200.00,
+          "prazo": "2028-01"
+        }
+      ]
+    }
+  ]
+}

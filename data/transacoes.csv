@@ -1,0 +1,13 @@
+data,nome,descricao,categoria,valor,tipo
+2025-10-01,Lucas Souza,Salário Jovem Aprendiz,receita,702.00,entrada
+2025-10-01,Lucas Souza,Poupança Meta (Notebook),investimento,20.00,saida
+2025-10-02,Lucas Souza,Lanche na escola,alimentacao,15.00,saida
+2025-10-05,Lucas Souza,Passagem de ônibus,transporte,22.00,saida
+2025-10-10,Lucas Souza,Cinema com amigos,lazer,35.00,saida
+2025-10-15,Lucas Souza,Recarga de celular,transporte,30.00,saida
+2025-10-01,Mariana Costa,Salário Jovem Aprendiz,receita,750.00,entrada
+2025-10-01,Mariana Costa,Poupança Meta (Curso Técnico),investimento,20.00,saida
+2025-10-03,Mariana Costa,Almoço no trabalho,alimentacao,45.00,saida
+2025-10-06,Mariana Costa,Uber para o curso,transporte,25.00,saida
+2025-10-12,Mariana Costa,Assinatura Spotify,lazer,24.90,saida
+2025-10-20,Mariana Costa,Livro didático,educacao,60.00,saida
